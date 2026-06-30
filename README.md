@@ -1,35 +1,44 @@
-<h1 align="center">Hi 👋, I'm Sarthak Lohani</h1>
+<h1 align="center">Hi 👋, I'm Sarthak Kumar Lohani</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+Something+New" />
+</p>
 
 <h3 align="center">
 Backend Developer • MERN Stack Developer • Final-year BCA Student
 </h3>
 
 <p align="center">
-Passionate about building scalable backend applications and continuously improving my problem-solving skills through real-world projects.
+Passionate about building scalable backend applications and solving real-world problems through code.
 </p>
 
 <p align="center">
-<a href="https://github.com/Sarthak050205"><img src="https://img.shields.io/github/followers/Sarthak050205?label=Followers&style=for-the-badge"></a>
-<a href="https://komarev.com/ghpvc/?username=Sarthak050205"><img src="https://komarev.com/ghpvc/?username=Sarthak050205&style=for-the-badge&color=blue"></a>
+<a href="https://github.com/Sarthak050205">
+<img src="https://img.shields.io/github/followers/Sarthak050205?label=Followers&style=for-the-badge&color=181717"/>
+</a>
+
+<a href="https://komarev.com/ghpvc/?username=Sarthak050205">
+<img src="https://komarev.com/ghpvc/?username=Sarthak050205&style=for-the-badge&color=0e75b6"/>
+</a>
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 Final-year BCA Student at **Amity University Online**
+🎓 Final-year **BCA Student** at **Amity University Online (2026)**
 
-💻 Passionate about **Backend Development** and building scalable web applications
+💻 Passionate about **Backend Development** and scalable web applications.
 
-🌱 Currently learning **Data Structures & Algorithms** while strengthening my backend fundamentals
+🌱 Currently improving my **Backend Fundamentals**, **JavaScript**, **Node.js**, **Express.js**, **MongoDB**, and **Data Structures & Algorithms**.
 
-⚡ I enjoy building projects that solve real-world problems
+🚀 I enjoy building projects that solve real-world problems while writing clean and maintainable code.
 
-🎯 Looking for **Backend** and **Full Stack Developer** opportunities
+🎯 Looking for **Backend Developer** and **Full Stack Developer** opportunities.
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -58,7 +67,7 @@ Passionate about building scalable backend applications and continuously improvi
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
 ---
@@ -69,40 +78,39 @@ Passionate about building scalable backend applications and continuously improvi
 
 An AI-powered interview preparation platform that analyzes resumes and job descriptions to generate:
 
-- Technical interview questions
-- Behavioral interview questions
-- Skill gap analysis
-- Personalized preparation roadmap
-- AI-enhanced resume suggestions
+- Resume Analysis
+- AI Interview Questions
+- Skill Gap Analysis
+- Personalized Preparation Roadmap
 
 **Tech Stack**
 
-React • Node.js • Express.js • MongoDB • Gemini AI
+`React` `Node.js` `Express.js` `MongoDB` `Gemini AI`
 
 ---
 
 ## ✍️ LinkedIn Post Generator
 
-Generate engaging LinkedIn posts in multiple writing styles using AI.
+Generate professional LinkedIn posts using AI with multiple writing styles.
 
 ### Features
 
 - Multiple tones
-- History tracking
+- History Management
 - Context-aware generation
-- Clean responsive UI
+- Responsive UI
 
 **Tech Stack**
 
-React • Context API • OpenRouter API
+`React` `Context API` `OpenRouter API`
 
 ---
 
 ## 🌐 Portfolio Website
 
-A personal portfolio showcasing my projects, skills, and development journey.
+A responsive portfolio showcasing my projects, skills, and development journey.
 
-🔗 https://sarthak-portfolio-tau.vercel.app
+🔗 **https://sarthak-portfolio-tau.vercel.app**
 
 ---
 
@@ -134,17 +142,7 @@ A personal portfolio showcasing my projects, skills, and development journey.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sarthak050205&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
 
@@ -152,12 +150,16 @@ A personal portfolio showcasing my projects, skills, and development journey.
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/Sarthak050205">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://sarthak-portfolio-tau.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge"/>
 </a>
 
 </p>
@@ -168,8 +170,10 @@ A personal portfolio showcasing my projects, skills, and development journey.
 
 <div align="center">
 
-### 💻 Keep Learning. Keep Building. Keep Improving.
+## 💡 Quote
 
 *"Great software isn't built in a day—it's built one commit at a time."*
+
+⭐ If you like my projects, consider giving them a star!
 
 </div>
