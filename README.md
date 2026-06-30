@@ -59,8 +59,8 @@ Final-year BCA student (Amity University Online, 2026) | MERN Stack Developer | 
 
 ## 📫 Connect with Me
 - Portfolio: [sarthak-portfolio-tau.vercel.app](https://sarthak-portfolio-tau.vercel.app)
-- LinkedIn: *(add your link)*
-- Email: *(add your email)*
+- LinkedIn: https://www.linkedin.com/in/sarthak-kumar-lohani
+- Email: sklohani252@gmail.com
 
 ---
 ⭐️ From [Sarthak050205](https://github.com/Sarthak050205)
