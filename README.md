@@ -1,179 +1,108 @@
-<h1 align="center">Hi 👋, I'm Sarthak Kumar Lohani</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+Something+New" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=220&section=header&text=Sarthak%20Kumar%20Lohani&fontSize=42&fontColor=c9a84c&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI-Powered%20Apps&descAlignY=58&descSize=18&descColor=7c5cbf" width="100%"/>
 
-<h3 align="center">
-Backend Developer • MERN Stack Developer • Final-year BCA Student
-</h3>
+<br/>
 
-<p align="center">
-Passionate about building scalable backend applications and solving real-world problems through code.
-</p>
+<a href="https://www.linkedin.com/in/sarthak-kumar-lohani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://sarthak-portfolio-tau.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-c9a84c?style=for-the-badge&logo=vercel&logoColor=000000"/></a>
+<a href="https://github.com/Sarthak050205"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<p align="center">
-<a href="https://github.com/Sarthak050205">
-<img src="https://img.shields.io/github/followers/Sarthak050205?label=Followers&style=for-the-badge&color=181717"/>
-</a>
+<br/><br/>
 
-<a href="https://komarev.com/ghpvc/?username=Sarthak050205">
-<img src="https://komarev.com/ghpvc/?username=Sarthak050205&style=for-the-badge&color=0e75b6"/>
-</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;MERN+Stack+%7C+REST+APIs+%7C+AI+Integrations;Currently+leveling+up+backend+engineering;Open+to+Frontend+%2F+Full+Stack+roles" alt="Typing SVG" />
 
----
+</div>
 
-# 👨‍💻 About Me
+<br/>
 
-🎓 Final-year **BCA Student** at **Amity University Online (2026)**
+## 🧑‍💻 About Me
 
-💻 Passionate about **Backend Development** and scalable web applications.
+- 🎓 **Education:** BCA, Amity University Online (2026)
+- 💼 **Experience:** Full Stack Dev Intern @ NoviTech R&D Pvt. Ltd.
+- 🛠️ **Core Stack:** React · Node.js · Express · MongoDB · PostgreSQL
+- 📚 **Currently Learning:** TypeScript · GraphQL · Redis · Docker · Kubernetes
+- 🎯 **Focus:** Shipping production-ready, AI-integrated web apps
+- 🚀 **Status:** Open to opportunities
 
-🌱 Currently improving my **Backend Fundamentals**, **JavaScript**, **Node.js**, **Express.js**, **MongoDB**, and **Data Structures & Algorithms**.
+<br/>
 
-🚀 I enjoy building projects that solve real-world problems while writing clean and maintainable code.
-
-🎯 Looking for **Backend Developer** and **Full Stack Developer** opportunities.
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Interview Helper
-
-An AI-powered interview preparation platform that analyzes resumes and job descriptions to generate:
-
-- Resume Analysis
-- AI Interview Questions
-- Skill Gap Analysis
-- Personalized Preparation Roadmap
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `Gemini AI`
-
----
-
-## ✍️ LinkedIn Post Generator
-
-Generate professional LinkedIn posts using AI with multiple writing styles.
-
-### Features
-
-- Multiple tones
-- History Management
-- Context-aware generation
-- Responsive UI
-
-**Tech Stack**
-
-`React` `Context API` `OpenRouter API`
-
----
-
-## 🌐 Portfolio Website
-
-A responsive portfolio showcasing my projects, skills, and development journey.
-
-🔗 **https://sarthak-portfolio-tau.vercel.app**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarthak050205&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak050205&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sarthak050205&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak050205&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sarthak-kumar-lohani">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Sarthak050205">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://sarthak-portfolio-tau.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge"/>
-</a>
-
-</p>
-
-📧 **Email:** **sklohani252@gmail.com**
-
----
+## ⚙️ Tech Stack
 
 <div align="center">
 
-## 💡 Quote
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,nodejs,express,mongodb,postgres,git,github,vercel,postman,figma&theme=dark" />
 
-*"Great software isn't built in a day—it's built one commit at a time."*
+</div>
 
-⭐ If you like my projects, consider giving them a star!
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [AI Interview Helper](https://ai-interview-helper-topaz.vercel.app)
+AI-powered MERN app that generates personalized interview questions and feedback from a resume/job description using the **Gemini API**.
+
+`React` `Node.js` `Express` `MongoDB` `Gemini API`
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 [MegaBlog](https://blog-app-two-livid.vercel.app/)
+Full-featured blogging platform with rich text editing, auth, and clean state management.
+
+`React` `Appwrite` `Redux Toolkit` `TinyMCE`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✍️ [LinkedIn Post Generator](https://linkedin-post-generator-silk.vercel.app/)
+Content-generation tool that turns simple prompts into polished, ready-to-publish LinkedIn posts via the **OpenRouter API**.
+
+`React` `OpenRouter API`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak050205&theme=tokyonight&hide_border=true&background=0D0D0DFF&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak050205&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=C9A84C&line=7C5CBF&point=FFFFFF" width="100%" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sarthak-kumar-lohani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://sarthak-portfolio-tau.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-c9a84c?style=for-the-badge&logo=vercel&logoColor=000000"/></a>
+<a href="mailto:sklohani252@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>Open to Frontend, Full Stack & Backend Developer roles</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=120&section=footer" width="100%"/>
 
 </div>
