@@ -1,66 +1,175 @@
-# Hi, I'm Sarthak 👋
+<h1 align="center">Hi 👋, I'm Sarthak Lohani</h1>
 
-Final-year BCA student (Amity University Online, 2026) | MERN Stack Developer | Actively seeking Frontend/Full Stack/Backend roles
+<h3 align="center">
+Backend Developer • MERN Stack Developer • Final-year BCA Student
+</h3>
 
-## 🚀 About Me
-- 🔭 Currently building **ShopMate** — a full-stack e-commerce platform with Redis caching, Docker, and a RAG-based AI assistant (ChromaDB + Gemini embeddings)
-- 🌱 Currently learning **PostgreSQL, TypeScript, GraphQL, Redis, WebSockets, and DevOps** as part of a backend mastery roadmap
-- 💼 Completed a Full Stack Development internship at **NoviTech R&D Private Limited** (Feb–Mar 2026)
-- 🎯 Open to Frontend, Full Stack, and Backend Developer roles
+<p align="center">
+Passionate about building scalable backend applications and continuously improving my problem-solving skills through real-world projects.
+</p>
 
-## 🛠️ Tech Stack
-
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-
-
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-
-
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-
-
-
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-
-
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-
-
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-
-
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-
-
-
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-
-
-## 📌 Featured Projects
-- **[AI Interview Helper](https://ai-interview-helper-topaz.vercel.app)** — AI-powered mock interview platform with resume parsing and Gemini-based question generation
-- **ShopMate** — Full-stack e-commerce app with Redis, Docker, and RAG-based AI shopping assistant *(in progress)*
-- **Auth System** — Complete authentication flow with JWT, OTP-based passwordless login, refresh tokens, and login history tracking
-- **MegaBlog** — Blogging platform built with React and Appwrite
-- **LinkedIn Post Generator** — Content generation tool using OpenRouter API
-
-## 📫 Connect with Me
-- Portfolio: [sarthak-portfolio-tau.vercel.app](https://sarthak-portfolio-tau.vercel.app)
-- LinkedIn: https://www.linkedin.com/in/sarthak-kumar-lohani
-- Email: sklohani252@gmail.com
+<p align="center">
+<a href="https://github.com/Sarthak050205"><img src="https://img.shields.io/github/followers/Sarthak050205?label=Followers&style=for-the-badge"></a>
+<a href="https://komarev.com/ghpvc/?username=Sarthak050205"><img src="https://komarev.com/ghpvc/?username=Sarthak050205&style=for-the-badge&color=blue"></a>
+</p>
 
 ---
-⭐️ From [Sarthak050205](https://github.com/Sarthak050205)
+
+# 💫 About Me
+
+🎓 Final-year BCA Student at **Amity University Online**
+
+💻 Passionate about **Backend Development** and building scalable web applications
+
+🌱 Currently learning **Data Structures & Algorithms** while strengthening my backend fundamentals
+
+⚡ I enjoy building projects that solve real-world problems
+
+🎯 Looking for **Backend** and **Full Stack Developer** opportunities
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Interview Helper
+
+An AI-powered interview preparation platform that analyzes resumes and job descriptions to generate:
+
+- Technical interview questions
+- Behavioral interview questions
+- Skill gap analysis
+- Personalized preparation roadmap
+- AI-enhanced resume suggestions
+
+**Tech Stack**
+
+React • Node.js • Express.js • MongoDB • Gemini AI
+
+---
+
+## ✍️ LinkedIn Post Generator
+
+Generate engaging LinkedIn posts in multiple writing styles using AI.
+
+### Features
+
+- Multiple tones
+- History tracking
+- Context-aware generation
+- Clean responsive UI
+
+**Tech Stack**
+
+React • Context API • OpenRouter API
+
+---
+
+## 🌐 Portfolio Website
+
+A personal portfolio showcasing my projects, skills, and development journey.
+
+🔗 https://sarthak-portfolio-tau.vercel.app
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarthak050205&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak050205&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sarthak050205&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak050205&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sarthak050205&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sarthak-kumar-lohani">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/Sarthak050205">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://sarthak-portfolio-tau.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
+</a>
+
+</p>
+
+📧 **Email:** **sklohani252@gmail.com**
+
+---
+
+<div align="center">
+
+### 💻 Keep Learning. Keep Building. Keep Improving.
+
+*"Great software isn't built in a day—it's built one commit at a time."*
+
+</div>
